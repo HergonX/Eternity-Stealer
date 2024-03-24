@@ -17,4 +17,4 @@
 
 # How To Use
 
-  Open the exe and all the instructions will be there!
+  Open the exe and all the instructions will be there!!
